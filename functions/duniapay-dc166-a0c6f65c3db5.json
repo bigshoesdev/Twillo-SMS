@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "duniapay-dc166",
+  "private_key_id": "a0c6f65c3db5977733e2401035caf9b6417018a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCN6ALVJD/aKbQn\nvVMK1QHqpuKfAXztamNbIdIbGRFh/MPp4aI0xx+5L9fRF/BgSzzgAHHhGz7ZUIhc\n+UB+lyW5l1Ib06aynGYfWR+x7uZ0Z8ltL9b4sUQkv6zIPziGLkkakiPN/K8/hB03\nHjPgHkR7UPr5ullQ4KOHBHA5dyv6QYCUF7qD0bGn9Wk3VtE5LZEnqb1VeVwht6Qi\n58yNLu6kkN5E1ZxqnnAAMLKBfWOGtEDipziq8OFwfTEII7Q3RI7QmmHAEktGmGdU\nEfqTY6uLYG8q0aWg1y2LeHrSaqtrNDo+u0f8RXnBaCQndn5WFcs9+dgoUjMXx3Km\nStyVHxwBAgMBAAECgf8i6/XGfiU4iwrKvMyy3bibBna+qp8TzhqlUq1h/clJU+ri\no6RHWLl12VBDJKEDEYDpnzJnM01ELY1hU/WLMacXBSYvsuZTDioTjNs/7orIGsJ3\nHE7K5NTgNktO/D/sxXc4Er688nIuL1UBO22Iueogbs1Up4dTX/TeRTlY6vrnmtkc\nmyCcEYFHwO5mRZqHrXbESILaT2C/Y9W6Bc3bS0Y9jW3gWK1eZKaDzPxN6MCNJAaJ\nqxvsbpRTXGQ3ntOd2aKKQp0VA8wyBE9JlNja4n3xYIxaBYbNUlNrjMERa0T9SIBn\nokPAPGJB5HmYsZaJPpndgNKq6iAoxOX2b/aNxAECgYEAyEjGEMcaLc29olsfjZ8g\ngIxMRlEjsHOxV78TZNz/4gZiawX1nYaXOTUrnVQ0X6zahFZtTYq7qrR7k3fsoYZA\nqSK7roT4Na5LkrXmShvsL3ZppymkzmFop3O298pqg6ILodtm00hSIxxmxFDsYJtc\nSbMBPS5VxWnv1u+OkC6o1OECgYEAtWHa2Z96GMjptfvl+0OTL08voymh8IZVM4j6\n4hVfR2X/B9ozFF2lnMEPPWKJzSd9/t69YqAKiP1Dx+mQSp4C4AexYJHx8CtW9/Py\nQPqWlSnQNtIpRa3DVmFnaCO9xJo22qvsJe7eeTYrGMWZntPJM+PxvtqLfaIUU6ku\nYMD2CyECgYEArZxvnFGKftPOIvNMOa4LNYLoBzgEcMsImiA2hoMPh/Sy0US8MM1f\nPqa5ZMp+D8U9MePdIY81t/Z0/FLDGwzN9g72k4QNyDKKreThd7IWnNnPIaj2hDNp\nzWV/3/FlPS91V9tgmZsiH+9ZoajoDaH+cKArXcZRcSuwTCch9BeOH+ECgYEAnKGe\nLaPL+i81s1ON7IcUSRxmlM3U7DH0zYYSsL2oA64Op6dDyOh9pXoKQQYg3aqm4TtT\n7CEsN9QNfksxsV32OaQrBqvBc5bZiVF996Lt+m2bQlwGDAfb0XJXq9SBgY9yoy8n\nxDIcqCug18l7uW5GJ6tGDXwITTtztjM4u5CmaEECgYEAtKCqLScsK679uJDMvDiQ\nTAM+Jq0P2CeoZiVFUijblsiKHwIfkgy6g1s3VwVgfMTuG53UbLQWKPWg29ilKXIx\nSMCi62SaY4wgvi4vOMKkd4TPnJnYoChRQKxdDraM1CoQDBiYzp30HUOSl3SZ2Il/\nHPCHndvCbcqPCqjVfgizgd0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "duniapay-dc166@appspot.gserviceaccount.com",
+  "client_id": "100806582676991792292",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/duniapay-dc166%40appspot.gserviceaccount.com"
+}
